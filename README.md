@@ -1,13 +1,13 @@
-# List of Games:
-⦁	Angel Of Truth
-⦁	Apocalypse Rising
-⦁	Assassin
-⦁	Bastion of Horsey
-⦁	Booga Booga
-⦁	Bread Factory Tycoon
-⦁	Build a boat
-⦁	Build to Survive (Uncopylocked best)
-⦁	Camping Simulator by Are92
+# List of Games: 
+⦁	Angel Of Truth 
+⦁	Apocalypse Rising 
+⦁	Assassin 
+⦁	Bastion of Horsey 
+⦁	Booga Booga 
+⦁	Bread Factory Tycoon 
+⦁	Build a boat 
+⦁	Build to Survive (Uncopylocked best) 
+⦁	Camping Simulator by Are92 
 ⦁	Cart Ride into an Epic Duck!
 ⦁	Castle Warfare
 ⦁	Chaos Canyon
